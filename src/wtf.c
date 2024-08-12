@@ -5,7 +5,7 @@
 
 /* War Time Formatter */
 /* by KryptoMagick (Karl Zander) */
-/* v0.0.2 */
+/* v0.0.3 */
 
 void usage() {
     printf("War Time Formatter usage:\n");
